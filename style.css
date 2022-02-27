@@ -1,0 +1,152 @@
+
+body{
+    margin: 0;
+   
+    
+  
+}
+
+/* top banner start */
+.top-header{
+display: flex;
+}
+
+.half-part{
+    width: 50%;
+}
+
+
+.image-top-banner{
+    width: 80%;
+}
+
+
+.top-header-text-part{
+    margin-left: 400px;
+    margin-top: 120px;
+}
+
+.top-header-text-part-one{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Yeseva One', cursive;
+font-size: 60px;
+border-left:  5px solid #FF5959;
+}
+
+.orange-color{
+    color: orange;
+}
+
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+/* top banner end */
+
+
+/* mission part start */
+.mission-title{
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.mission-number-part{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+
+.mission-parts{
+width: 360px;
+height: 376px;
+background-color: #4F9DA61A;
+padding: 15px;
+border-radius: 20px;
+margin-right: 20px;
+    
+}
+
+.mission-parts img{
+width: 126px;
+height: 126px;
+
+}
+
+/* mission part end */
+
+
+/* development part image */
+
+.development-part{
+    justify-content: center;
+    margin-bottom: 60px;
+    
+}
+
+.develoment-part-images img{
+width: 400px;
+height: 400px;
+}
+
+
+.development-part{
+    display: flex;
+}
+
+.develoment-part-text{
+width: 654px;
+height: 311px;
+margin-left: 120px;
+}
+
+
+/* project part css start */
+.project-title{
+    text-align: center;
+    font-size: 48px;
+}
+
+/* project part css end */
+
+
+/* project list start */
+.project-list{
+    display: flex;
+    align-items: center;
+   
+}
+
+.project-images img{
+    width: 50%;
+    float: right;
+    margin-right: 40px;
+}
+
+.sez{
+    width: 40%;
+}
+.text-48{
+    font-size: 48px;
+}
+
+.project-images-text{
+    margin-left: 100px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-bottom: 1px;
+    
+}
+/* project list end */
